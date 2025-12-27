@@ -4,5 +4,5 @@ project(learning_c_sem1_basics_ C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(learning_c_sem1_basics_ main.c
-        "cmake-build-debug/Bubble sort with binary procedure.c"
+        "Bubble sort with binary procedure.c"
 )
