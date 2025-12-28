@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "matrix_functions.h"
 
 /* Function to input matrix along with rows and columns */
 void inputMatrix(int mat[10][10], int *rows, int *cols) {
