@@ -5,7 +5,7 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(learning_c_sem1_basics_ main.c
         "Bubble sort with binary procedure.c"
-        "matrix operations.c"
+        "matrix_operations.c"
         "matrix_functions.c"
         "matrix_functions.h"
 )
