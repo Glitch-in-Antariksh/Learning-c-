@@ -1,9 +1,7 @@
 #include <stdio.h>
-
 struct employee {int eid, eage;
                  char ename[20];
                  float esal;};
-
 int main(){ struct employee e[50]; int n, i;
     // Read number of employees
     printf("Enter the number of Employees: ");
@@ -26,7 +24,6 @@ int main(){ struct employee e[50]; int n, i;
     printf("**************************************************\n");
     printf("Empid\tEmpname\tEmpage\tEmpsal\n");
     printf("--------------------------------------------------\n");
-
     for(i = 0; i < n; i++){
         printf("%d\t%s\t%d\t%.2f\n",
                e[i].eid,

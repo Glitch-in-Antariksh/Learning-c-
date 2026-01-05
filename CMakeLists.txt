@@ -10,4 +10,5 @@ add_executable(learning_c_sem1_basics_ main.c
         "matrix_functions.h"
         Structures_beginner_emp_code.c
         isPrime_function.c
+        FACTORIAL_RECURSION_PRACTICE.c
 )
