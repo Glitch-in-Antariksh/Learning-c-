@@ -12,4 +12,5 @@ add_executable(learning_c_sem1_basics_ main.c
         isPrime_function.c
         FACTORIAL_RECURSION_PRACTICE.c
         Fibonacci_recursion.c
+        Centigrade2farenheitconverter.c
 )
