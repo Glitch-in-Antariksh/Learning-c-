@@ -11,4 +11,5 @@ add_executable(learning_c_sem1_basics_ main.c
         Structures_beginner_emp_code.c
         isPrime_function.c
         FACTORIAL_RECURSION_PRACTICE.c
+        Fibonacci_recursion.c
 )
